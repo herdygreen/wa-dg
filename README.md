@@ -13,7 +13,7 @@ whatsapp: [`Click Here`](https://wa.me/6283856085455)
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/rynz01/rybot
+> git clone https://github.com/herdygreen/wa-dg
 > cd rybot
 > npm i
 ```
