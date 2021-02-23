@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 ╭─〘 DONASI 〙
-│ • AXIS : 083856085455
-│ • DANA: 083856085455
+│ • Cukup Subscribe dan Like Channel YouTube
+│   Ragam Cara Sederhana
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
